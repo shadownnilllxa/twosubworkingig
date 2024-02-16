@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "2036803347"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -47,11 +47,11 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "value": "<b>ʜᴇʟʟᴏ {first} ʙᴀᴋᴋᴀᴀᴀᴀ!! ɪ'ᴍ ʜᴇʀᴇ ᴀᴛ ᴛᴏ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜʀ ᴀɴɪᴍᴇ !!! ᴊᴜꜱᴛ ᴅᴏɴ'ᴛ ᴏᴠᴇʀʟᴏᴀᴅ ᴍᴇ.</b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
+      "value": "<b>ʜᴇʟʟᴏ {first} ᴘʟᴇᴀsᴇ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ғɪʀsᴛ ʙʏ [ ᴛᴀᴘ ᴏɴ ᴊᴏɪɴ ⚡ ] ᴛʜᴇɴ ᴅᴏᴡɴʟᴏᴀᴅ ʙʏ ᴛᴀᴘᴘɪɴɢ ᴏɴ ⚡ᴛʀʏ ᴀɢᴀɪɴ. ᴛʜᴀɴᴋ ʏᴏᴜ..!!</b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
